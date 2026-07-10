@@ -1,0 +1,19 @@
+:root {
+  background: #fbfdfb;
+  color: #24362e;
+  font-family: Avenir Next, Avenir, Nunito Sans, Segoe UI, sans-serif;
+  font-synthesis: none;
+  line-height: 1.5;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+}
+
+#root {
+  min-height: 100svh;
+}
